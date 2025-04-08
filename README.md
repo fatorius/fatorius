@@ -8,7 +8,7 @@ Em 2024, fundei o **[ExpoMap](https://expomap.com.br)**, um SaaS de **localizaç
 
 ---
 
-## Que tipos de projeto você encontrará aqui?
+## Que tipos de projetos você encontrará aqui?
 
 - ♟️ Algoritmos para **[engines de xadrez](https://github.com/fatorius/capizero)** e outros jogos ([truco](https://github.com/fatorius/truuuco), [2048](https://github.com/fatorius/mcts-2048)...) 
 - 🤖 [Notebooks de **machine learning**](https://github.com/fatorius/ml-notebooks) (language models, CNN, RNN, sistemas de recomendação...)
