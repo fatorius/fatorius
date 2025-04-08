@@ -8,11 +8,11 @@ Em 2024, fundei o **[ExpoMap](https://expomap.com.br)**, um SaaS de **localizaç
 
 ---
 
-## 💻 Interesses e Áreas de Estudo
+## Que tipos de projeto você encontrará aqui?
 
-- ♟️ Desenvolvimento de **engines de xadrez** e outros jogos
-- 🤖 **Machine Learning** e sistemas de recomendação
-- 🧱 **Renderizadores 3D** e computação gráfica
+- ♟️ Algoritmos para **[engines de xadrez](https://github.com/fatorius/capizero)** e outros jogos ([truco](https://github.com/fatorius/truuco), [2048](https://github.com/fatorius/2048-mcts)...) 
+- 🤖 [Notebooks de **machine learning**](https://github.com/fatorius/ml-notebooks) (language models, CNN, RNN, sistemas de recomendação...)
+- 🧱 [Aplicativos Android](https://github.com/fatorius/HLGS-Filters) e [mineradores de cripto-moedas (Duino-Coin)](https://github.com/fatorius/DUCO-Android-Miner)
 
 ---
 
