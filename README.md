@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Hugo Souza
 
-<!--
-**fatorius/fatorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software**, moro em **Brasília** e tenho **3 anos de experiência profissional** com desenvolvimento de software. Programo desde os 15 anos e, ao longo da minha jornada, venho me aprofundando em **machine learning** e **análise de dados**, com foco em melhorar a experiência do usuário através de soluções inteligentes e orientadas por dados.
 
-Here are some ideas to get you started:
+Atualmente, estou direcionando minha carreira para a área de **produto**, atuando como **líder de squad** e **product owner em três projetos**, onde combino conhecimento técnico com visão estratégica para entregar valor real ao usuário final.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em 2024, fundei o **[ExpoMap](https://expomap.com.br)**, um SaaS de **localização em espaços internos**, voltado para eventos, centros comerciais e ambientes interativos.
+
+---
+
+## 💻 Interesses e Áreas de Estudo
+
+- ♟️ Desenvolvimento de **engines de xadrez** e outros jogos
+- 🤖 **Machine Learning** e sistemas de recomendação
+- 🧱 **Renderizadores 3D** e computação gráfica
+
+---
+
+## 📌 Aqui você encontra...
+
+Repositórios com notebooks de machine learning, experimentos com redes neurais, projetos pessoais e estudos envolvendo algoritmos de xadrez e outros jogos. Sinta-se à vontade para explorar, contribuir ou entrar em contato!
+
+---
