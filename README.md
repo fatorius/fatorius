@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Hugo Souza
 
-Sou estudante de **Engenharia de Software**, moro em **Brasília** e tenho **3 anos de experiência profissional** com desenvolvimento de software. Programo desde os 15 anos e, ao longo da minha jornada, venho me aprofundando em **machine learning** e **análise de dados**, com foco em melhorar a experiência do usuário através de soluções inteligentes e orientadas por dados.
+Sou estudante de **Engenharia de Software**, moro em **Brasília** e tenho **4 anos de experiência profissional** com desenvolvimento de software. Programo desde os 15 anos e, ao longo da minha jornada, venho me aprofundando em **machine learning** e **análise de dados**, com foco em melhorar a experiência do usuário através de soluções inteligentes e orientadas por dados.
 
 Atualmente, estou direcionando minha carreira para a área de **produto**, atuando como **líder de squad** e **product owner em três projetos**, onde combino conhecimento técnico com visão estratégica para entregar valor real ao usuário final.
 
