@@ -1,4 +1,11 @@
-## Hi there 👋
+hello
+
+some stuff you'll find here:
+
+- a [chess engine](https://github.com/fatorius/capizero) omg
+- some machine learning experiments
+- ah yeah, an (probably outdated) [android duino-coin miner](https://github.com/fatorius/DUCO-Android-Miner)
+- a bunch of unfinished projects
 
 <!--
 **fatorius/fatorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
